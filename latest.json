@@ -1,0 +1,11 @@
+{
+    "packageName":  "com.tongchengdaka.app",
+    "versionCode":  10001,
+    "versionName":  "1.0.1",
+    "apkUrl":  "https://github.com/wenyong1/tongchengdaka-release/releases/download/v1.0.1/TongChengDaKa-1.0.1.apk",
+    "releasePageUrl":  "https://wenyong1.github.io/tongchengdaka-release/",
+    "releaseNotes":  "Added a public update channel. The app can check the latest version and open a public download page.",
+    "sha256":  "15285404761e1040161c8831c014c5e845e6b0c04675337549a55bc1e00388f4",
+    "publishedAt":  "2026-04-25T22:56:36+08:00",
+    "mandatory":  false
+}
